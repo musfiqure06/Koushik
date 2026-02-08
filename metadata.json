@@ -1,0 +1,8 @@
+{
+  "name": "Musfiqure Rahman - Cinematic 3D Portfolio",
+  "description": "A futuristic, 3D interactive portfolio for a Full Stack Developer & UI/UX Designer featuring Three.js, GSAP, and Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
