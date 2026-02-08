@@ -13,7 +13,7 @@ export const DEVELOPER_INFO = {
   
   email: "musfiqurerahman.eub@gmail.com",
   location: "Dhaka, Bangladesh",
-  resumeUrl: "#", // Add your link here
+  resumeUrl: "https://i.ibb.co.com/B5MpkNxV/IMG-20260102-WA0000-1.jpg", // Add your link here
   socials: {
     github: "github.com/musfiqure06",
     linkedin: "https://www.linkedin.com/in/md-musfiqure-rahman-4a68ba378/",
