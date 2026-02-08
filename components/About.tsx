@@ -30,7 +30,7 @@ const About: React.FC = () => {
               {/* Profile Badge */}
               <div className="absolute bottom-6 left-6 flex items-center gap-2 bg-blue-600/90 backdrop-blur-md px-4 py-2 rounded-full border border-white/20">
                 <CheckCircle size={16} className="text-white" />
-                <span className="text-xs font-black uppercase tracking-widest text-white">Precedent of EUB Programming Club</span>
+                <span className="text-xs font-black uppercase tracking-widest text-white">President of EUB Programming Club</span>
               </div>
             </motion.div>
 
